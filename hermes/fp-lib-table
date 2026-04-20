@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "hermes")(type "KiCad")(uri "C:/Users/User/Desktop/Hackclubs Stasis/hermes")(options "")(descr ""))
+)
